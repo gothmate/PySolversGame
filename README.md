@@ -14,4 +14,4 @@ Eduardo Gonçalves
 
 Ricardo Garcêz
 
-O projeto foi todo feito em pythom, Utilizando as bibliotecas Pygame e Pandas. Com o tempo, conforme compreendemos melhor a linguagem, adicionaremos mais features.
+O projeto foi todo feito em python, Utilizando as bibliotecas Pygame e Pandas. Com o tempo, conforme compreendemos melhor a linguagem, adicionaremos mais features.
