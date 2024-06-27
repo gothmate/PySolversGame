@@ -15,3 +15,12 @@ Eduardo Gonçalves
 Ricardo Garcêz
 
 O projeto foi todo feito em python, Utilizando as bibliotecas Pygame e Pandas. Com o tempo, conforme compreendemos melhor a linguagem, adicionaremos mais features.
+
+
+- Para preparar o ambiente rode os seguintes comandos no terminal dentro da pasta do projeto (ambiente windows):
+
+python -m venv venv
+.\venv\Scripts\activate
+pip install pygame
+pip install pandas
+python .\app.py
