@@ -19,8 +19,12 @@ O projeto foi todo feito em python, Utilizando as bibliotecas Pygame e Pandas. C
 
 - Para preparar o ambiente rode os seguintes comandos no terminal dentro da pasta do projeto (ambiente windows):
 
-python -m venv venv
-.\venv\Scripts\activate
-pip install pygame
-pip install pandas
-python .\app.py
+- python -m venv venv
+
+- .\venv\Scripts\activate
+
+- pip install pygame
+
+- pip install pandas
+
+- python .\app.py 
